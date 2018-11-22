@@ -1,0 +1,12 @@
+este es un documento de prueba
+
+cd Escrutorio
+cd proyectoWEB
+git init 
+git add documento
+git status
+
+git remote add Restaurant 
+git push -u Restaura master
+
+
